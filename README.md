@@ -39,7 +39,7 @@ In summary, this project is motivated by the need to improve ad targeting effica
 **IDEs Used:-**
 | Vs Code | Jupyter Notebook |
 | --- | --- |
-| ![Vs Code logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/vscode_logo.jpg) | ![Vs Code logo]() |
+| ![Vs Code logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/vscode_logo.jpg) | ![Vs Code logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/jupyter_logo.png) |
 
 ## 6. Model Used
 
