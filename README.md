@@ -44,32 +44,32 @@ In summary, this project is motivated by the need to improve ad targeting effica
 **Frontend:-**
 | HTML | Bootstrap |
 | --- | --- |
-| ![HTML logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/vscode_logo.jpg) | ![Bootstrap logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/jupyter_logo.png) |
+| ![HTML logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/html5_logo.jpg) | ![Bootstrap logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/bootstrap5_logo.jpg) |
 
 **Backend:-**
 | Django |
 | --- |
-| ![Django logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/vscode_logo.jpg) |
+| ![Django logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/django_logo.png) |
 
 **Data Preprocessing:-**
 | Pandas | Numpy |
 | --- | --- |
-| ![Pandas logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/vscode_logo.jpg) | ![Numpy logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/jupyter_logo.png) |
+| ![Pandas logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/pandas_logo.png) | ![Numpy logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/numpy_logo.png) |
 
 **Data Visualisation:-**
 | Matplotlib | Seaborn |
 | --- | --- |
-| ![Matplotlib logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/vscode_logo.jpg) | ![Seaborn logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/jupyter_logo.png) |
+| ![Matplotlib logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/matplotlib_logo.png) | ![Seaborn logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/seaborn_logo.png) |
 
 **ML Model:-**
 | SK Learn |
 | --- |
-| ![SK Learn logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/vscode_logo.jpg) |
+| ![SK Learn logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/sklearn_logo.png) |
 
 **Module Referencing:-**
 | Joblib |
 | --- |
-| ![Joblib logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/vscode_logo.jpg) |
+| ![Joblib logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/joblib_logo.png) |
 
 ## 6. Model Used
 
