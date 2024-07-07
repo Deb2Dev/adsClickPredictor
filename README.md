@@ -26,7 +26,7 @@ Studies indicate that personalized advertising can increase click-through rates 
   
 In summary, this project is motivated by the need to improve ad targeting efficacy in a rapidly growing market, leveraging advanced machine learning techniques to deliver actionable insights and drive business performance.
 
-## 4. Business Use cases
+## 4. Business Use Cases
 
 1. **Targeted Advertising Campaigns:** Enhance the effectiveness of digital advertising campaigns by targeting users who are more likely to click on ads, leading to higher engagement and conversion rates.
 2. **Customer Segmentation:** Segment users based on predicted ad-click behavior, allowing businesses to tailor marketing strategies to different customer groups and optimize ad spend.
@@ -35,6 +35,11 @@ In summary, this project is motivated by the need to improve ad targeting effica
 5. **Lead Scoring:** Improve lead scoring models by incorporating ad click predictions, allowing sales teams to prioritize leads with higher engagement potential.
 
 ## 5. Technologies & Libraries Used
+
+**IDEs Used:-**
+| Vs Code | Jupyter Notebook |
+| --- | --- |
+| ![Vs Code logo]() | ![Vs Code logo]() |
 
 ## 6. Model Used
 
