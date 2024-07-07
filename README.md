@@ -14,8 +14,15 @@
 
 ## 1. Demo
 
+**Home Screen:-**
+
 ![Home Screen](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/Screenshot%20(445).png)
 
+**Predictions:-**
+
+![Home Screen](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/Screenshot%20(445).png)
+
+![Home Screen](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/Screenshot%20(445).png)
 ## 2. Overview
 
 This project implements a machine learning model to predict the probability of a user clicking on an advertisement based on features, specifically age and estimated salary. Utilizing the K-Nearest Neighbors (KNN) algorithm, the model is optimized through hyperparameter tuning to enhance predictive performance and accuracy.
