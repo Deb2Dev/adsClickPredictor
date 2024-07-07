@@ -5,7 +5,7 @@
 1. Demo
 2. Overview
 3. Motivation
-4. Business Use cases
+4. Business Use Cases
 5. Technologies & Libraries Used
 6. Development Procedure
 7. Metrices
