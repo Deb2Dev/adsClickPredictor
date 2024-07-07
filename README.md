@@ -22,9 +22,9 @@ This project implements a machine learning model to predict the probability of a
 
 The digital advertising industry is experiencing exponential growth, with global digital ad spend projected to reach $517.51 billion by 2023, representing a substantial portion of total media ad spend. Despite this growth, the challenge of effectively targeting advertisements to maximize engagement remains critical for businesses seeking to optimize their return on investment (ROI).
 
-  Studies indicate that personalized advertising can increase click-through rates (CTR) by as much as 10 times compared to non-targeted ads. However, accurately predicting which users are likely to engage with an advertisement based on demographic data poses a significant challenge. This project addresses this gap by leveraging machine learning techniques to enhance ad targeting precision.
+Studies indicate that personalized advertising can increase click-through rates (CTR) by as much as 10 times compared to non-targeted ads. However, accurately predicting which users are likely to engage with an advertisement poses a significant challenge. This project addresses this gap by leveraging machine learning techniques to enhance ad targeting precision.
   
-  In summary, this project is motivated by the need to improve ad targeting efficacy in a rapidly growing market, leveraging advanced machine learning techniques to deliver actionable insights and drive business performance.
+In summary, this project is motivated by the need to improve ad targeting efficacy in a rapidly growing market, leveraging advanced machine learning techniques to deliver actionable insights and drive business performance.
 
 ## Business Use cases
 
@@ -44,6 +44,6 @@ The digital advertising industry is experiencing exponential growth, with global
 
 | SL No. | Name | LinkedIn | Github | E-mail |
 | --- | --- | --- | --- | --- |
-| 01 | Debshankar Naskar | (LinkedIn)[https://www.linkedin.com/in/debshankar-naskar-07ba2222b] | (Github)[https://github.com/Deb2Dev] | debshankar2002@gmail.com |
+| 01 | Debshankar Naskar | [LinkedIn](https://www.linkedin.com/in/debshankar-naskar-07ba2222b) | [Github](https://github.com/Deb2Dev) | debshankar2002@gmail.com |
 
 ## Credit
