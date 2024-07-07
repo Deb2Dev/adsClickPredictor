@@ -36,7 +36,9 @@ In summary, this project is motivated by the need to improve ad targeting effica
 
 ## 5. Technologies & Libraries Used
 
-## 6. Development Procedure
+## 6. Model Used
+
+This project implements a K-Nearest Neighbors (KNN) model with K=9, optimized using a KD-tree, to predict customers who will click on displayed online ads. The KD-tree, an efficient data structure, accelerates the search for nearest neighbors, making the model suitable for large datasets. Trained on a dataset containing user demographics (age and salary) and their click behavior on online ads, the model identifies the 9 nearest neighbors for each user to determine their likelihood of clicking an ad.
 
 ## 7. Metrices
 
@@ -47,3 +49,5 @@ In summary, this project is motivated by the need to improve ad targeting effica
 | 01 | Debshankar Naskar | [LinkedIn](https://www.linkedin.com/in/debshankar-naskar-07ba2222b) | [Github](https://github.com/Deb2Dev) | debshankar2002@gmail.com |
 
 ## 9. Credits
+
+1. Kaggle: Ads click predictor dataset
