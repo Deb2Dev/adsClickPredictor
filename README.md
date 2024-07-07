@@ -41,6 +41,36 @@ In summary, this project is motivated by the need to improve ad targeting effica
 | --- | --- |
 | ![Vs Code logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/vscode_logo.jpg) | ![Vs Code logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/jupyter_logo.png) |
 
+**Frontend:-**
+| HTML | Bootstrap |
+| --- | --- |
+| ![HTML logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/vscode_logo.jpg) | ![Bootstrap logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/jupyter_logo.png) |
+
+**Backend:-**
+| Django |
+| --- |
+| ![Django logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/vscode_logo.jpg) |
+
+**Data Preprocessing:-**
+| Pandas | Numpy |
+| --- | --- |
+| ![Pandas logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/vscode_logo.jpg) | ![Numpy logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/jupyter_logo.png) |
+
+**Data Visualisation:-**
+| Matplotlib | Seaborn |
+| --- | --- |
+| ![Matplotlib logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/vscode_logo.jpg) | ![Seaborn logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/jupyter_logo.png) |
+
+**ML Model:-**
+| SK Learn |
+| --- |
+| ![SK Learn logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/vscode_logo.jpg) |
+
+**Module Referencing:-**
+| Joblib |
+| --- |
+| ![Joblib logo](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/vscode_logo.jpg) |
+
 ## 6. Model Used
 
 This project implements a K-Nearest Neighbors (KNN) model with K=9, optimized using a KD-tree, to predict customers who will click on displayed online ads. The KD-tree, an efficient data structure, accelerates the search for nearest neighbors, making the model suitable for large datasets. Trained on a dataset containing user demographics (age and salary) and their click behavior on online ads, the model identifies the 9 nearest neighbors for each user to determine their likelihood of clicking an ad.
