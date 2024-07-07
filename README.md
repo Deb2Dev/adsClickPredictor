@@ -92,6 +92,8 @@ This project implements a K-Nearest Neighbors (KNN) model with K=9, optimized us
 
 ## 7. Metrices
 
+![Picture of metrices taken from jupyrter notebook](https://github.com/Deb2Dev/adsClickPredictor/blob/main/Logos/Screenshot%20(453).png)
+
 ## 8. Team
 
 | SL No. | Name | LinkedIn | Github | E-mail |
