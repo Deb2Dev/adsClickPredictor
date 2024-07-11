@@ -7,7 +7,7 @@
 3. Motivation
 4. Business Use Cases
 5. Technologies & Libraries Used
-6. Development Procedure
+6. Model Details
 7. Metrices
 8. Team
 9. Credit
